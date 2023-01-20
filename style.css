@@ -1,0 +1,14 @@
+@font-face {
+    font-family: roboreg;
+    src: url(Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: robobold;
+    src: url(Roboto-Bold.ttf);
+}
+p, a{
+    font-family: roboreg;
+}
+h1, h2, h3, h4, h5, h6, strong{
+    font-family: robobold;
+}
